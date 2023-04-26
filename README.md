@@ -1,4 +1,4 @@
-Typeit is a basic blogging platform made using React, Redux and Firebase
+The Writing Book is a basic blogging platform made using React, Redux and Firebase
 
 ## To compile the script
 
